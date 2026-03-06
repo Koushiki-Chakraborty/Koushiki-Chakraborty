@@ -38,6 +38,9 @@ I am a Computer Science and Engineering student at **Dr. B. C. Roy Engineering C
 * **State-Level Swimmer:** Demonstrating discipline and competitive excellence.
 * **Visual Arts:** Passionate about drawing and creative design.
 
+---
+
+### 📫 Connect With Me
 <p align="left">
 <a href="mailto:koushikichakraborty122003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/koushiki-chakraborty-24aa33323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
