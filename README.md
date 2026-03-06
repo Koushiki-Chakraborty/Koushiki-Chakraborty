@@ -1,82 +1,3 @@
-# Hi there 👋 I'm Koushiki Chakraborty
-
-🎓 B.Tech CSE Student | 💻 Full-Stack & AI Developer | 🤖 LLM & RAG Enthusiast
-
-I am a passionate Computer Science student who enjoys building scalable web applications and experimenting with modern AI technologies. My interests lie in full-stack development, large language models, and intelligent data-driven systems.
-
-Currently exploring **Knowledge Graphs, Retrieval Augmented Generation (RAG), and LLM-powered applications**.
-
----
-
-# 👩‍💻 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering  
-  Dr. B. C. Roy Engineering College, Durgapur (2023-2027)
-
-- 💡 Interested in  
-  - Full Stack Development  
-  - AI & LLM Applications  
-  - Knowledge Graphs  
-  - Intelligent Document Processing  
-
-- 🌱 Currently Learning  
-  - Advanced LLM integration  
-  - LangChain pipelines  
-  - Knowledge Graph based reasoning systems  
-
-- 🤝 Open to collaborate on  
-  - AI powered applications  
-  - MERN stack projects  
-  - Research-driven AI tools  
-
----
-
-# 💻 Technical Skills
-
-### Programming Languages
-• c • Java • Python • JavaScript
-
-### Web Development
-• Express.js • React.js • Node.js
-• Spring Boot • REST APIs
-• JWT Authentication
-
-### AI / ML & Modern AI Stack
-• Retrieval Augmented Generation (RAG)
-• LLM Integration (Groq API, LangChain)
-• Prompt Engineering
-• OCR & Document Intelligence
-• Knowledge Graphs (Neo4j Basics)
-
-### Tools & Technologies
-• Git 
-• GitHub 
-• MongoDB 
-• Neo4j
-
-### Core CS Concepts
-• Data Structures & Algorithms
-• Operating System
-• Computer Network
-• DBMS
-
-
----
-
-# 🏆 Achievements
-
-🏊 State-Level Swimmer  
-Demonstrating discipline, perseverance, and competitive excellence.
-
----
-
-# 🎨 Hobbies
-
-✏️ Drawing and visual arts  
-I enjoy creative expression through sketching and design.
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -86,12 +7,44 @@ I enjoy creative expression through sketching and design.
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Koushiki-Chakraborty&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" />
 </p>
+
 ---
 
-# 📫 Connect With Me
+# Hi there 👋 I'm Koushiki Chakraborty
+<p align="left">
+  <img src="https://img.shields.io/badge/-B.Tech%20CSE-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI%20%26%20LLM%20Enthusiast-orange?style=flat-square" />
+</p>
 
-📧 Email: [koushikichakraborty122003@gmail.com](koushikichakraborty122003@gmail.com)  
+I am a passionate Computer Science student at **Dr. B. C. Roy Engineering College** (2023-2027). I specialize in building scalable web applications and exploring the frontiers of **Retrieval Augmented Generation (RAG)** and **Knowledge Graphs**.
 
-💼 LinkedIn: [www.linkedin.com/in/koushiki-chakraborty-24aa33323](www.linkedin.com/in/koushiki-chakraborty-24aa33323)
+---
 
-🐙 GitHub: [https://github.com/Koushiki-Chakraborty](https://github.com/Koushiki-Chakraborty)
+### 🛠️ Technical Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| **Web Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **AI / ML** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink) ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) **RAG • LLM Ops • Prompt Engineering** |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+
+---
+
+### 🚀 Projects & Focus
+- 🔍 **Knowledge Graphs:** Experimenting with Neo4j for reasoning systems.
+- 🤖 **LLM Integration:** Building pipelines using LangChain and Groq API.
+- 📄 **IDP:** Working on Intelligent Document Processing and OCR.
+
+### 🏆 Achievements & Hobbies
+- 🏊 **State-Level Swimmer:** Discipline and competitive spirit are part of my DNA.
+- 🎨 **Visual Arts:** I enjoy sketching and creative design in my free time.
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+<a href="mailto:koushikichakraborty122003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/koushiki-chakraborty-24aa33323"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
