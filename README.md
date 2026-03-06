@@ -30,9 +30,9 @@ I am a Computer Science and Engineering student at **Dr. B. C. Roy Engineering C
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-* **AI/Data:** **RAG** • **LangChain** • **Neo4j** • **Prompt Engineering**
-* **Web:** **React.js** • **Node.js** • **Spring Boot** • **MongoDB**
+* **Languages:** ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+* **AI/Data:** ![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink) ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-blueviolet?style=flat-square) ![OCR](https://img.shields.io/badge/-OCR-grey?style=flat-square)
+* **Web:** ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)* 
 
 ---
 
