@@ -30,7 +30,7 @@ I am a passionate Computer Science student at **Dr. B. C. Roy Engineering Colleg
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | **Web Dev** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **AI / ML** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink) ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) **RAG • LLM Integration • Prompt Engineering • OCR** |
+| **AI & Graph** | ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink) **RAG • Knowledge Graphs • Prompt Engineering • OCR** |
 | **Tools & DB** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **RESTful APIs • JWT Authentication** |
 
 ---
