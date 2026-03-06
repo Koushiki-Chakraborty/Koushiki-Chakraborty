@@ -1,20 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> Engineering Metrics
-
+# ⚡ Git Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koushiki-Chakraborty&theme=tokyonight" alt="GitHub Streak" height="170px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Koushiki-Chakraborty&layout=compact&theme=tokyonight" alt="Top Langs" width="400px" />
-</p>
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Koushiki-Chakraborty&show_icons=true&theme=tokyonight&hide_border=true" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koushiki-Chakraborty&theme=tokyonight&hide_border=true" height="170px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Koushiki-Chakraborty&layout=compact&theme=tokyonight&hide_border=true" width="400px" />
 </p>
 
 # Hi there 👋 I'm Koushiki Chakraborty
