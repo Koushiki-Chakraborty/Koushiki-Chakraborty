@@ -79,16 +79,18 @@ I enjoy creative expression through sketching and design.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koushiki-chakraborty&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koushiki-chakraborty&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+</p>
 ---
 
 # 📫 Connect With Me
 
-📧 Email: koushikichakraborty122003@gmail.com  
+📧 Email: [koushikichakraborty122003@gmail.com](koushikichakraborty122003@gmail.com)  
 
-💼 LinkedIn: www.linkedin.com/in/koushiki-chakraborty-24aa33323
+💼 LinkedIn: [www.linkedin.com/in/koushiki-chakraborty-24aa33323](www.linkedin.com/in/koushiki-chakraborty-24aa33323)
 
-🐙 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Koushiki-Chakraborty)
+🐙 GitHub: [https://github.com/Koushiki-Chakraborty](https://github.com/Koushiki-Chakraborty)
