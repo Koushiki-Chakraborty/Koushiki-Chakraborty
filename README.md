@@ -80,13 +80,9 @@ I enjoy creative expression through sketching and design.
 # 📊 GitHub Stats
 
 <p align="center">
-  
-![Koushiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koushiki-Chakraborty&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Koushiki-Chakraborty&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushiki-Chakraborty&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Koushiki-Chakraborty&show_icons=true&theme=tokyonight" alt="Koushiki's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koushiki-Chakraborty&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Koushiki-Chakraborty&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 ---
 
