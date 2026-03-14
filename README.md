@@ -18,8 +18,8 @@ I am a Computer Science and Engineering student at **Dr. B. C. Roy Engineering C
 
 ### 🚀 Featured Projects
 
-* **Causal Question Answering**
-    * Implementing Knowledge Graph grounded SLMs using **Neo4j**, **LangChain**, and **RAG**.
+* **Krishi.AI - AI-Powered Farmer Advisory System**
+    * Implementing Knowledge Graph using **Neo4j**, **LangChain**, and **RAG**.
 * **AI Content Automator**
     * Automated scraping and AI-powered rewriting using the **MERN Stack** and **Gemini LLM**.
 * **Food Order System**
